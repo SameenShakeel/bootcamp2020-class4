@@ -1,0 +1,31 @@
+div{
+  display: inline-block;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+}
+
+.box{
+  background-color: black;
+  color: white;
+  padding-top: 185px;
+}
+
+.dayLight{
+  background-color: yellow;
+  color: black;
+}
+
+button{
+  height: 40px;
+  width: 150px;
+  border: none;
+  margin-left: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+  background-color: rgb(205, 154, 253);
+}
+
+button:hover{
+  background-color: blueviolet;
+}
